@@ -1,1 +1,1 @@
-# Artifact-2-Create-a-Chessboard-
+# Artifact-2-Create-a-Chessboard
